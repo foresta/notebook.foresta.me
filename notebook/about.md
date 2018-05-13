@@ -18,10 +18,11 @@ I'm Software Enginner and Game Developer.
 
 ### Languages
 * C++
+* C#
 * Elixir
-* Rust
-* PHP
 * JavaScript
+* PHP
+* Rust
 
 ### Libraries&Frameworks
 * Cocos2d-x
