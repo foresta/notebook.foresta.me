@@ -1,0 +1,14 @@
+{
+  "name": "notebook.foresta.me",
+  "version": "1.0.0",
+  "description": "技術文書を書く",
+  "dependencies": {
+    "vuepress": "^0.8.4"
+  },
+  "scripts": {
+    "build": "vuepress build notebook",
+    "dev": "vuepress dev notebook"
+  },
+  "author": "kz_morita <kz.morit@gmail.com>",
+  "license": "ISC"
+}
